@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/home/sics/Desktop/Ajeet/Dummy/Discord-Clone/app/layout\":[\"static/media/ed347bcde018be70-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
