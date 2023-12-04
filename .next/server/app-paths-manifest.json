@@ -1,6 +1,3 @@
 {
-  "/not-found": "app/not-found.js",
-  "/(main)/(routes)/page": "app/(main)/(routes)/page.js",
-  "/(auth)/(routes)/sign-in/[[...sign-in]]/page": "app/(auth)/(routes)/sign-in/[[...sign-in]]/page.js",
-  "/(auth)/(routes)/sign-up/[[...sign-up]]/page": "app/(auth)/(routes)/sign-up/[[...sign-up]]/page.js"
+  "/(main)/(routes)/servers/[serverId]/page": "app/(main)/(routes)/servers/[serverId]/page.js"
 }
